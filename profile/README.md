@@ -11,4 +11,5 @@ provide easy acess to client information / files while providing the ability to 
 clients while also providing auto filling of regulatory documents  using client information and providing e-signatures. 
 
 ## aig-sight
-An optician website aiming to create a better customer experience and purchase integrations via akbank
+A website that is a gig aiming to create a nice modern website for an optician brand while also integrating shopping, while providing a link between other 3rd party sites
+such as trendyol automatically updating stocks and pricing from one panel.
